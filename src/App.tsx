@@ -3,7 +3,7 @@ import { Outlet } from "react-router-dom";
 
 function App() {
   return (
-    <div>
+    <div className="border-solid border-2 border-indigo-600">
       <nav>
         <ul>
           <li>
